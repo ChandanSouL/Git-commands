@@ -39,7 +39,7 @@ Commit Changes:
 git commit -m "<your commit msg>"
 Commits the staged changes with a descriptive message.
 
-Push Changes to Your Branch:
+Push Changes to Your Branchb to main:
 
 git push origin <your branch name>
 Pushes the committed changes to the remote repository in the specified branch.
